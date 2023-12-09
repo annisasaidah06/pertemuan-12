@@ -3,8 +3,11 @@
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 > Method tambah() untuk menambah data
+
 > Method tampilkan() untuk menampilkan data
+
 > Method hapus(nama) untuk menghapus data berdasarkan nama
+
 > Method ubah(nama) untuk mengubah data berdasarkan nama
 
 ![src1](https://github.com/annisasaidah06/pertemuan-12/assets/148035766/fe096433-d94e-4ba3-bed9-fe2a5dd8f544)
